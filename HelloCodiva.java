@@ -46,7 +46,7 @@ class HelloCodiva {
     System.out.println(d);
     
     //Gebruik maken van een boolean en een if-statement
-    //Maak een boolean aan, geef die waaqrde true en print een text als deze waarde false is
+    //Maak een boolean aan, geef die waarde true en print een text als deze waarde false is
     boolean defect = true;
     if (!defect) {
       System.out.println("ik ben niet defect");
